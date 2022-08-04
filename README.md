@@ -1,5 +1,5 @@
 # Senimental Analysis Using LSTM on IMDB Dataset of 50K Movie Reviews
-In this project contains the implemention of Sentimental Analysis using LSTM which classifies a movie review into postive or negative feedback.
+In this project Sentimental Analysis using LSTM is implemented which classifies a movie review into postive or negative feedback.
 
 ## Link
 This programs runs online on Google Colab. Below is the link to the code : <br />
